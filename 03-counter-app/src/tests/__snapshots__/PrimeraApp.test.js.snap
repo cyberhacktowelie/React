@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en el archivo PrimeraApp.test.js PrimeraApp debe mostrar un saludo 1`] = `
+<Fragment>
+  <h2>
+    Hola soy Goku
+  </h2>
+  <p>
+    Soy un subtitulo por defecto
+  </p>
+</Fragment>
+`;
+
+exports[`Pruebas en el archivo PrimeraApp.test.js PrimeraApp debe mostrar un subtitulo enviado por props 1`] = `
+<Fragment>
+  <h2>
+    Hola soy Goku
+  </h2>
+  <p>
+    Soy el subtitulo
+  </p>
+</Fragment>
+`;
